@@ -1,0 +1,32 @@
+{
+  "audiovisual_files": {
+    "22aa89dd-21b5-438e-bd31-a54a139035ca": {
+      "label": "Gordon Ramsay's Stir Fry Guide",
+      "is_offline": false,
+      "file_type": "Video",
+      "file_url": "https://www.youtube.com/watch?v=s8f752SdeAI",
+      "duration": 296
+    }
+  },
+  "auto_generate_web_page": true,
+  "label": "Gordon Ramsay's Stir Fry Guide",
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\nHere's a quick guide to how to cook two deliciously simple stir fry recipes.\n\n\n\n"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "created_at": "2025-05-13T14:45:32.739Z",
+  "created_by": "SteveMarvin",
+  "updated_at": "2025-05-13T14:45:32.739Z",
+  "updated_by": "SteveMarvin"
+}

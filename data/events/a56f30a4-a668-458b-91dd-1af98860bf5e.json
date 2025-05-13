@@ -1,0 +1,32 @@
+{
+  "audiovisual_files": {
+    "15dcaf06-bc6e-465b-a0d9-7dd8fbe24e4a": {
+      "label": "Jamie Oliver's stir-frying tips",
+      "is_offline": false,
+      "file_type": "Video",
+      "file_url": "https://www.youtube.com/watch?v=nyiaPDYhnYg",
+      "duration": 83
+    }
+  },
+  "auto_generate_web_page": true,
+  "label": "Jamie Oliver's stir-frying tips",
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\nHow to stir-fry. Video taken from Jamie's app www.jamieshomecookingskills.com  \n"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "created_at": "2025-05-13T14:45:32.739Z",
+  "created_by": "SteveMarvin",
+  "updated_at": "2025-05-13T14:45:32.739Z",
+  "updated_by": "SteveMarvin"
+}
