@@ -1,0 +1,40 @@
+{
+  "event_id": "477840df-dc02-4c63-b6a8-41bf90755b4c",
+  "source_id": "acf049af-2ad8-4aa2-928e-757bfad09d52",
+  "set": "Default",
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 6,
+      "annotation": [
+        {
+          "text": "Stop-motion animation"
+        }
+      ],
+      "tags": [],
+      "uuid": "f7ceb6a5-1a88-4536-8991-4fb9970e85f1"
+    },
+    {
+      "start_time": 7,
+      "end_time": 18,
+      "annotation": [
+        {
+          "text": "Intro"
+        }
+      ],
+      "tags": [],
+      "uuid": "89448be6-49e3-4caf-b7da-e17d48393add"
+    },
+    {
+      "start_time": 19,
+      "end_time": 30,
+      "annotation": [
+        {
+          "text": "Gordon looking sheepish and nervous, as he usually does when not angry."
+        }
+      ],
+      "tags": [],
+      "uuid": "1f9af82f-702d-4df0-a4ea-42691dbdc51e"
+    }
+  ]
+}

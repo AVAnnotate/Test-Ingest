@@ -1,0 +1,27 @@
+{
+  "audiovisual_files": {
+    "acf049af-2ad8-4aa2-928e-757bfad09d52": {
+      "label": "AV File 1",
+      "file_url": "https://www.youtube.com/watch?v=s8f752SdeAI",
+      "duration": 0
+    }
+  },
+  "auto_generate_web_page": true,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "asdf"
+        }
+      ]
+    }
+  ],
+  "created_at": "2025-05-13T15:28:51.340Z",
+  "created_by": "SteveMarvin",
+  "item_type": "Video",
+  "label": "Gordon Ramsay's Stir Fry Guide",
+  "updated_at": "2025-05-13T15:28:51.340Z",
+  "updated_by": "SteveMarvin",
+  "rights_statement": "https://rightsstatements.org/vocab/UND/1.0/"
+}
