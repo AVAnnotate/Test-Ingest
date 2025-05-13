@@ -7,7 +7,7 @@
     }
   },
   "auto_generate_web_page": true,
-  "label": "Gordon Ramsay's Stir Fry Guide 2",
+  "label": "Gordon Ramsay's Stir Fry Guide 3",
   "description": [
     {
       "type": "paragraph",
@@ -25,6 +25,9 @@
   ],
   "created_at": "2025-05-13T14:45:32.739Z",
   "created_by": "SteveMarvin",
-  "updated_at": "2025-05-13T14:45:32.739Z",
-  "updated_by": "SteveMarvin"
+  "updated_at": "2025-05-13T14:48:39.654Z",
+  "updated_by": "SteveMarvin",
+  "av_file_order": [
+    "55ebdf10-5a7a-441a-97e4-0e4d07658880"
+  ]
 }
